@@ -1,0 +1,15 @@
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\bin\Debug\net10.0\teste.exe
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\bin\Debug\net10.0\teste.deps.json
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\bin\Debug\net10.0\teste.runtimeconfig.json
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\bin\Debug\net10.0\teste.dll
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\bin\Debug\net10.0\teste.pdb
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.AssemblyInfoInputs.cache
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.AssemblyInfo.cs
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.csproj.CoreCompileInputs.cache
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.sourcelink.json
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.dll
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\refint\teste.dll
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.pdb
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\teste.genruntimeconfig.cache
+C:\Users\2brun\OneDrive\Área de Trabalho\c-games\teste\obj\Debug\net10.0\ref\teste.dll
